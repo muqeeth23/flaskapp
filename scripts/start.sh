@@ -1,7 +1,7 @@
 #!/bin/bash
 set +x
 # Navigate to app directory
-cd /home/ec2-user/flask-app
+cd /home/ec2-user/flaskapp
 
 # Install Python dependencies
 pip3 install -r requirements.txt
